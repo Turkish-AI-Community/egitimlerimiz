@@ -1,6 +1,6 @@
 # Türkiye Yapay Zeka Topluluğu Eğitim Külliyatı
 
-Bu repo Türkiye Yapay Zeka Topluluğu'nun (TYZT) eğitimlerini barındırır. Hem Youtube hem Github linklerini içermektedir. Eğitimlerin listesi:
+Bu repo Türkiye Yapay Zeka Topluluğu'nun (TYZT) eğitimlerini barındırır. Youtube ve Github linklerini içermektedir. Eğitimlerin listesi:
 
 ## İstanbul Üniversitesi - Data Club ve CSC - Uygulamalı Veri Bilimi Bootcamp
 
