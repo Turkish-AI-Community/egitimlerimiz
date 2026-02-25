@@ -21,3 +21,8 @@ Bu repo Türkiye Yapay Zeka Topluluğu'nun (TYZT) eğitimlerini barındırır. Y
 
 - Kapalı bir eğitim olduğu için sadece Github linki eklenmiştir.
 - Github: [Repository](https://github.com/Turkish-AI-Community/ege-uni-istatistik-ve-veri-bilimi-toplulugu)
+
+## Akdeniz Üniversitesi - VBT - Manage The Data Bootcamp
+
+- Youtube: [Oynatma Listesi](https://www.youtube.com/playlist?list=PLr1CkC0uCFepp04VDDKOiMgYkmryL-7q0)
+- Github: [Repository](https://github.com/Turkish-AI-Community/akdu-manage-the-data-bootcamp)
