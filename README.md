@@ -26,3 +26,8 @@ Bu repo Türkiye Yapay Zeka Topluluğu'nun (TYZT) eğitimlerini barındırır. Y
 
 - Youtube: [Oynatma Listesi](https://www.youtube.com/playlist?list=PLr1CkC0uCFepp04VDDKOiMgYkmryL-7q0)
 - Github: [Repository](https://github.com/Turkish-AI-Community/akdu-manage-the-data-bootcamp)
+
+## Yıldız Teknik Üniversitesi - VBK - Hands-on AI
+
+- Youtube: [Oynatma Listesi](https://youtube.com/playlist?list=PLr1CkC0uCFeqHvzfYLeBnemwrawfemNRm)
+- Github: [Repository](https://github.com/Turkish-AI-Community/ytu-vbk-hands-on-ai)
